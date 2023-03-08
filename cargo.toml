@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "adder",
+    "lib/add_one",
+    "lib/add_two",
+]
